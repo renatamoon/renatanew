@@ -37,6 +37,7 @@ representante e ao agente no destino. Fechamento de processos, inclusão de fatu
 pagamento e solicitação de pagamento ao financeiro.
 
 ✓ INTERCÂMBIO: Intercâmbio na Holanda – AUPAIR – Início: 07/2019 - Finalização: 06/2020
+
 ✓ NARU DECOR LTDA (out/2017 a mai/2019) - Cargo: Analista de Importação Jr. - Atividades realizadas no
 departamento de Importação. PRINCIPAIS ATIVIDADES: Envio de pedido de compra junto ao time de
 vendas. de Elaboração do plano de importação (marítimo ou aéreo), envio purchase orders para os
